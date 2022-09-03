@@ -1,1 +1,2 @@
-#!/bin/bashchmod +111 hello
+#!/bin/bash
+chmod +111 hello
